@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eee02ab2-2a2f-4fb2-8679-54414dd12d0e" name="Default" comment="Test file change">
-      <change afterPath="$PROJECT_DIR$/HelloFromHanh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Shared_folder_test" beforeDir="false" afterPath="$PROJECT_DIR$/Shared_folder_test" afterDir="false" />
     </list>
@@ -135,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595159690805</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test file change">
+      <created>1595159941185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595159941185</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test file change">
+      <created>1595159961305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595159961305</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -162,6 +174,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test file change" />
@@ -176,5 +189,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2676" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595159647304" />
+    <state x="2488" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595160594982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2488" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595160594982" />
   </component>
 </project>
